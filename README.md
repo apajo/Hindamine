@@ -1,2 +1,2 @@
 # Hindamine
-Interactive assessment for diiferent types of groups for evaluating projects and grant applicants
+Interactive assessment for groups for evaluating projects, grant applicants etc.
